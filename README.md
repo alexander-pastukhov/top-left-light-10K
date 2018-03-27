@@ -1,6 +1,6 @@
 # Reliable top-left light convention starts with Early Renaissance:  An extensive approach comprising 10k artworks
 
-Data and analysis for the __"Reliable top-left light convention starts with Early Renaissance:  An extensive approach comprising 10k artworks"__ manuscript.
+Data and analysis for the __"Reliable top-left light convention starts with Early Renaissance:  An extensive approach comprising 10k artworks"__ manuscript published in Frontiers in Psychology [doi: 10.3389/fpsyg.2018.01454](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00454).
 
 ## Analysis
 The complete analysis, including all figures and statistical comparisons, can be found in Jupyter notebooks.
